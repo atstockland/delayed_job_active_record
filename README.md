@@ -1,7 +1,7 @@
 **If you're viewing this at https://github.com/collectiveidea/delayed_job_active_record,
 you're reading the documentation for the master branch.
 [View documentation for the latest release
-(4.1.3).](https://github.com/collectiveidea/delayed_job_active_record/tree/v4.1.3)**
+().](https://github.com/collectiveidea/delayed_job_active_record/tree/v4.1.3)**
 
 # DelayedJob ActiveRecord Backend
 
@@ -12,7 +12,7 @@ you're reading the documentation for the master branch.
 [![Coverage Status](https://img.shields.io/coveralls/collectiveidea/delayed_job_active_record.svg)](https://coveralls.io/r/collectiveidea/delayed_job_active_record)
 
 ## Installation
-
+4.1.4
 Add the gem to your Gemfile:
 
     gem 'delayed_job_active_record'
